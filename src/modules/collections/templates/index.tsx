@@ -38,3 +38,5 @@ export default function CollectionTemplate({
     </div>
   )
 }
+
+export const dynamic = "force-dynamic"
